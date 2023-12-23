@@ -1,5 +1,7 @@
 # Calculator App Documentation
 
+![image info](calculator-snapshot.png)
+
 ## Overview
 
 This simple calculator app, developed in Java, is designed to perform basic mathematical operations. It provides a user-friendly interface for performing addition, subtraction, multiplication, and division.
